@@ -1,0 +1,108 @@
+================================================================================
+COMPANY FACTSHEET — SOILSENSE AI LTD
+================================================================================
+Document type  : Company Factsheet
+Source         : Company pitch deck (received Jan 2026) + public filings (Companies House)
+Last updated   : January 2026
+Analyst        : Pivot & Co Research Team
+--------------------------------------------------------------------------------
+
+OVERVIEW
+--------
+SoilSense AI Ltd is a UK-based startup founded in 2021, headquartered in Norwich,
+England. The company develops low-cost wireless soil health sensors combined with a
+predictive analytics platform to track soil carbon sequestration, moisture, pH, and
+nitrogen levels in real time.
+
+Its hardware-software integrated offering targets both commercial farms and land
+management organisations (e.g., Natural England, RSPB) seeking to quantify carbon
+credits from regenerative agriculture practices. The company is pre-revenue on its
+carbon credit verification module but has launched a commercial soil monitoring
+subscription in early 2025.
+
+FINANCIALS
+----------
+Currency           : GBP
+Latest fiscal year : FY2025 (year end Sep 2025)
+
+Revenue (FY2025)          : GBP 0.9M
+Revenue (FY2024)          : GBP 0.3M
+Revenue growth YoY        : +200%
+ARR (Q4 2025)             : GBP 1.1M
+Gross margin              : 41% (hardware margin drag)
+EBITDA                    : GBP -1.4M
+Cash position (Sep 2025)  : GBP 2.2M
+Estimated runway          : 16 months
+Burn rate                 : GBP ~0.14M / month
+
+FUNDING HISTORY
+---------------
+Pre-seed (2021)     : GBP 0.35M — Founders + Norfolk Angel Network
+Seed (2023)         : GBP 2.5M — Breed Reply, Innovate UK grant (GBP 0.4M included)
+Total raised        : GBP 2.85M
+Current valuation   : GBP 11M (post-seed)
+
+TECHNOLOGY
+----------
+Core IP            : Proprietary low-power sensor node (LoRa + BLE, 5-year battery)
+Sensor accuracy    : ±2% moisture, ±0.1 pH, ±5 ppm NO3
+AI stack           : Gaussian Process Regression for carbon sequestration modelling
+Platform           : Web dashboard + REST API; Farmbench integration in beta
+Carbon module      : Awaiting Verra VCS validation (submitted Q4 2025)
+
+MARKET POSITION
+---------------
+Target segment     : Regenerative agriculture farms + land managers + carbon market players
+Addressable market : GBP 320M UK soil health tech + GBP 1.2B voluntary carbon market (agri)
+Market share       : ~0.3% (nascent market)
+Key competitors    : Agreena, Regrow Ag, Hummingbird Technologies
+Differentiation    : Vertically integrated hardware + AI carbon model (competitors are
+                     software-only or rely on third-party sensors)
+
+TEAM
+----
+CEO    : James Whitfield — ex-Dyson Advanced Research, MEng Electronics (Cambridge)
+CSO    : Dr. Ana Ferreira — PhD Soil Science (Rothamsted Research), ex-ADAS Group
+CRO    : Sarah Chen — ex-Agreena commercial lead (DACH markets)
+Team   : 19 FTEs (11 tech/hardware, 5 sales, 3 G&A)
+
+ESG & SUSTAINABILITY
+--------------------
+Direct mission alignment with carbon sequestration measurement
+Innovate UK Sustainable Agriculture Award nominee (2025)
+SDGs targeted  : SDG 13, SDG 15, SDG 17 (Partnerships)
+Regulatory risk: Voluntary carbon market regulatory tightening (IOSCO guidance)
+
+STRATEGIC NOTES
+---------------
+- Series A planned for Q2 2026, targeting GBP 6-8M; mandate given to a boutique advisor
+- Strategic discussions with a major UK retailer (undisclosed) on supply chain carbon data
+- Hardware cost roadmap: unit manufacturing cost targeted at GBP 85 by 2027 (vs GBP 140 now)
+- Two key personnel risks: CSO and CRO both joined <12 months ago
+
+KEY RISKS
+---------
+- Hardware margin significantly dilutes blended gross margin (41%)
+- Runway limited (16 months) given Series A dependency
+- Carbon credit module revenue highly uncertain pending Verra validation
+- Small team size creates key-person risk
+
+ANALYST PRELIMINARY VIEW
+------------------------
+SoilSense is an exciting early-stage company in a rapidly growing niche (agri carbon).
+Revenue growth is exceptional (+200%) but from a very small base. The hardware margin
+drag and short runway are concerns. The Verra validation result will be a key binary
+event. Monitor closely but wait for carbon module validation before committing.
+
+SCORING INPUTS (for AI model)
+------------------------------
+revenue_growth_pct        : 200
+gross_margin_pct          : 41
+runway_months             : 16
+total_raised_eur_m        : 3.3
+fte_count                 : 19
+market_coverage_ha        : 28000
+has_patent                : false
+esg_score_internal        : 91
+analyst_flag              : WATCH
+================================================================================

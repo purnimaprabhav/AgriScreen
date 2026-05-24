@@ -1,0 +1,108 @@
+================================================================================
+COMPANY FACTSHEET — GREENYIELD TECHNOLOGIES BV
+================================================================================
+Document type  : Company Factsheet
+Source         : Company IR + LinkedIn Intelligence + Crunchbase
+Last updated   : February 2026
+Analyst        : Pivot & Co Research Team
+--------------------------------------------------------------------------------
+
+OVERVIEW
+--------
+GreenYield Technologies BV is a Dutch agtech company founded in 2017, based in
+Wageningen (Netherlands). The company builds crop-disease early-warning systems
+using hyperspectral drone imaging and machine learning. Its platform, "CropGuard",
+alerts farm managers 7-14 days before visible disease symptoms appear, enabling
+targeted fungicide application and reducing chemical use by up to 40%.
+
+GreenYield serves primarily potato, sugar beet, and tulip growers in the Netherlands,
+Belgium, and Germany. It also has a growing presence in Eastern Europe (Poland, Czech
+Republic) via a reseller agreement signed in late 2024.
+
+FINANCIALS
+----------
+Currency           : EUR
+Latest fiscal year : FY2025
+
+Revenue (FY2025)          : EUR 5.1M
+Revenue (FY2024)          : EUR 3.7M
+Revenue growth YoY        : +38%
+ARR (Q4 2025)             : EUR 5.6M
+Gross margin              : 68%
+EBITDA                    : EUR -0.8M
+Cash position (Dec 2025)  : EUR 7.4M
+Estimated runway          : 24 months
+Burn rate                 : EUR ~0.31M / month
+
+FUNDING HISTORY
+---------------
+Seed (2018)         : EUR 0.8M — Rabobank Innovation Fund
+Series A (2021)     : EUR 5.0M — Anterra Capital, Rabobank
+Series A ext (2023) : EUR 3.5M — Existing investors
+Total raised        : EUR 9.3M
+Current valuation   : EUR 34M (Series A ext)
+
+TECHNOLOGY
+----------
+Core IP            : Hyperspectral signature library for 48 crop diseases (proprietary)
+Drone platform     : Custom-configured DJI Matrice + Headwall Photonics sensor
+AI stack           : Convolutional neural networks + transfer learning (TensorFlow)
+Detection accuracy : 89% precision, 85% recall across 12 monitored crop types
+Integrations       : Bayer CropScience API, Arvesta advisory platform
+
+MARKET POSITION
+---------------
+Target segment     : Arable and specialty crop farms (>50 ha)
+Addressable market : EUR 780M in Northern/Eastern Europe (crop protection tech)
+Market share (est.): ~0.65% of addressable market
+Key competitors    : Agrobot, Taranis, PEAT GmbH
+Differentiation    : Hyperspectral library depth (48 diseases vs. competitor avg. 12)
+                     Early detection window (7-14 days) outperforms visual inspection
+
+TEAM
+----
+CEO    : Dr. Pieter van den Berg — PhD Plant Pathology (Wageningen UR), ex-Syngenta
+CTO    : Laura Smit — MSc Artificial Intelligence (TU Delft), ex-Philips AI Lab
+Head of Sales : Erik Hoekstra — 15y agri sales, ex-BASF Crop Science
+Team   : 41 FTEs (22 tech, 12 commercial, 7 G&A)
+
+ESG & SUSTAINABILITY
+--------------------
+Fungicide reduction per hectare     : Average -38% active ingredient usage
+Drone operations carbon footprint   : Offset via Verra-certified project (ID: VCS-2847)
+SDGs targeted                       : SDG 2, SDG 15 (Life on Land)
+EU Green Deal alignment             : Directly supports Farm to Fork 50% pesticide target
+
+STRATEGIC NOTES
+---------------
+- Pilot programme launched with Cosun (major sugar beet cooperative) — 8,000 ha coverage
+- Exploring Series B (target EUR 12-15M) — process expected to launch Q3 2026
+- Patent filed in December 2025 for AI-based disease progression modelling (EP25-441223)
+- No acquisition interest reported; founders control 42% of cap table
+
+KEY RISKS
+---------
+- Drone regulation variability across EU member states (EASA SORA framework complexity)
+- Weather dependency: drone operations grounded in >30% of days in NW European winters
+- Hyperspectral sensor hardware cost remains a barrier to scalability
+- Eastern Europe expansion dependent on quality of reseller network
+
+ANALYST PRELIMINARY VIEW
+------------------------
+GreenYield is a technically solid company with a strong scientific moat (disease
+library depth). Growth is steady but not exceptional (+38% YoY). The Cosun pilot is
+a significant credibility signal. Runway is comfortable. Merits monitoring ahead of
+their Series B process.
+
+SCORING INPUTS (for AI model)
+------------------------------
+revenue_growth_pct        : 38
+gross_margin_pct          : 68
+runway_months             : 24
+total_raised_eur_m        : 9.3
+fte_count                 : 41
+market_coverage_ha        : 95000
+has_patent                : true
+esg_score_internal        : 78
+analyst_flag              : WATCH
+================================================================================

@@ -1,0 +1,96 @@
+================================================================================
+AGRI-TECH NEWS DIGEST — Q1 2026
+================================================================================
+Document type  : News Monitoring Digest
+Source         : Pivot & Co — Market Intelligence
+Period         : January – March 2026
+--------------------------------------------------------------------------------
+
+[NEWS-001] — 14 January 2026
+VERDANT FARMS SIGNS LETTER OF INTENT WITH CRÉDIT AGRICOLE
+Verdant Farms SA has signed a non-binding Letter of Intent (LOI) with Crédit
+Agricole's digital banking arm to integrate the AgroLens platform into the bank's
+farmer advisory services. If converted to a binding agreement, the deal would give
+AgroLens access to Crédit Agricole's 250,000 French farm customers. Verdant's CEO
+described it as "a potential step-change in our distribution strategy." Financial
+terms were not disclosed. The LOI is subject to a 90-day exclusivity window.
+Source: Verdant Farms press release; AgriInvestor confirmation.
+
+[NEWS-002] — 21 January 2026
+EU FARM TO FORK: PESTICIDE REDUCTION TARGET PARTIALLY REINSTATED
+Following political controversy in 2024, the European Parliament voted to reinstate
+a 35% pesticide reduction target by 2030 (down from the original 50%). This provides
+partial regulatory clarity for biological inputs companies. Analysts at Rabobank note
+that this "reduces the upside scenario for biocontrol companies but confirms the
+structural direction of travel." BioRoot Innovations and similar companies are
+expected to benefit from continued regulatory tailwinds.
+Source: European Parliament official press release; Rabobank Food & Agribusiness note.
+
+[NEWS-003] — 3 February 2026
+HARVESTLINK CFO RESIGNATION CONFIRMED
+HarvestLink GmbH officially confirmed the resignation of CFO Thomas Richter
+(effective 31 October 2025) in their latest Handelsregister filing. The company
+stated it is "actively recruiting a replacement." Market sources indicate the
+departure was related to disagreements over the company's fundraising strategy.
+This follows the company's announcement in November 2025 of a headcount reduction
+of 18 employees (35% of total workforce). HarvestLink's runway is estimated at
+under 12 months by multiple sources.
+Source: Handelsregister filing DE-M-2026-00234; AgFunder News.
+
+[NEWS-004] — 11 February 2026
+SOILSENSE AI SUBMITS VERRA VCS CARBON METHODOLOGY
+SoilSense AI Ltd confirmed it has formally submitted its soil carbon quantification
+methodology to Verra for VCS validation. If approved (expected Q3 2026), the
+methodology would allow SoilSense to issue verified carbon credits on behalf of
+participating farms. The CEO stated: "This is a transformational milestone. We
+estimate the carbon credit module could add GBP 3-5M in annual revenue by 2027
+if validated." Two competing methodologies are already validated (Gold Standard
+Soil Carbon and BCarbon), but SoilSense claims its sensor-based approach is more
+accurate and cost-effective.
+Source: SoilSense AI press release; Verra VCS programme registry.
+
+[NEWS-005] — 28 February 2026
+GREENYIELD TECHNOLOGIES LAUNCHES COSUN PILOT IN NETHERLANDS
+GreenYield Technologies BV announced the launch of a commercial pilot programme
+with Cosun, one of the Netherlands' largest sugar beet cooperatives, covering
+8,000 hectares across the Groningen and Zeeland growing regions. The pilot will
+run through the 2026 growing season and evaluate CropGuard's early disease
+detection system against Cosun's existing fungicide application regime.
+Results will be published in Q4 2026. If the pilot meets agreed KPIs
+(≥30% fungicide reduction without yield loss), Cosun has indicated it will
+consider a broader commercial rollout across its full 180,000 ha member base.
+Source: GreenYield Technologies press release; Cosun media centre.
+
+[NEWS-006] — 15 March 2026
+AQUAGROW SOLUTIONS PARTNERS WITH OCP GROUP ON MOROCCO EXPANSION
+AquaGrow Solutions and OCP Group (the world's largest phosphate exporter and a
+major Moroccan agricultural player) have signed a strategic partnership to deploy
+AquaGrow's precision irrigation systems to 25,000 smallholder farms in the Souss-Massa
+and Gharb regions of Morocco over three years. OCP will subsidise hardware costs as
+part of its AgriEdge programme for smallholder modernisation. Financial terms of the
+partnership were not disclosed, but market sources estimate the contract value at
+USD 8-12M over the three-year period.
+Source: AquaGrow Solutions press release; OCP Group annual sustainability report 2025.
+
+[NEWS-007] — 22 March 2026
+BIOROOT INNOVATIONS CONFIRMS SERIES A CLOSE AT EUR 12M
+BioRoot Innovations SA confirmed the close of its EUR 12M Series A round, combining
+a EUR 2.5M grant from the European Innovation Council (EIC Accelerator) and EUR 9.5M
+equity from Swifty Ventures (lead) and Bayer AG Strategic Investments (follow-on).
+The round values BioRoot at EUR 55M post-money. CEO Dr. Thomas Leclercq stated:
+"This funding will allow us to complete our Spanish and Italian regulatory submissions,
+scale RhizoBoost commercial operations, and begin Phase 2 trials for FungalRoot."
+BioRoot's Bayer partnership gives it exclusive distribution rights in DACH and Benelux.
+Source: BioRoot Innovations press release; EIC Accelerator official announcement.
+
+[NEWS-008] — 31 March 2026
+EU WATER FRAMEWORK DIRECTIVE: NEW REPORTING OBLIGATIONS FROM Q3 2026
+The European Commission confirmed that farms exceeding 50 hectares in EU member
+states will be required to file annual water use reports starting from Q3 2026,
+under the strengthened Water Framework Directive enforcement regime. Farms in
+water-stressed regions (Southern Spain, Southern Italy, parts of Greece and Portugal)
+will face additional restrictions on groundwater extraction. Precision irrigation
+companies are expected to benefit from increased demand for automated water use
+reporting tools.
+Source: European Commission DG Environment press release.
+================================================================================

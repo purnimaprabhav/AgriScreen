@@ -1,0 +1,19 @@
+company_id,company_name,round_type,round_date,amount_eur_m,lead_investor,participating_investors,post_money_valuation_eur_m,notes
+VF-001,Verdant Farms SA,Seed,2020-04-01,1.2,Bpifrance,Business Angels,5.0,
+VF-001,Verdant Farms SA,Series A,2022-06-15,6.0,Partech Ventures,Capagro,22.0,
+VF-001,Verdant Farms SA,Series B,2024-02-28,18.0,Sofinnova Partners,Capagro; BNP Paribas Développement,62.0,Series C rumoured for Q3 2026 targeting EUR 30-40M
+GY-002,GreenYield Technologies BV,Seed,2018-09-01,0.8,Rabobank Innovation Fund,,3.5,
+GY-002,GreenYield Technologies BV,Series A,2021-03-10,5.0,Anterra Capital,Rabobank,18.0,
+GY-002,GreenYield Technologies BV,Series A Ext,2023-11-20,3.5,Anterra Capital,Rabobank,34.0,Pre-Series B; Series B planned Q3 2026
+SS-003,SoilSense AI Ltd,Pre-seed,2021-07-01,0.35,Norfolk Angel Network,Founders,1.2,
+SS-003,SoilSense AI Ltd,Seed,2023-05-15,2.5,Breed Reply,Innovate UK (grant GBP 0.4M),11.0,Verra VCS submission pending; Series A planned Q2 2026 GBP 6-8M
+AG-004,AquaGrow Solutions Ltd,Seed,2015-03-01,1.4,OurCrowd,Israeli angels,4.0,USD converted at 0.93
+AG-004,AquaGrow Solutions Ltd,Series A,2017-08-01,4.7,Pontifax Agro,Syngenta Ventures,16.0,USD converted
+AG-004,AquaGrow Solutions Ltd,Series B,2020-11-01,13.1,Xinova Ventures,Mivtach Shamir Holdings,51.0,USD converted
+AG-004,AquaGrow Solutions Ltd,Acquisition,2023-04-01,6.1,Debt financing,,72.0,Acquisition of TechRiego SL; USD converted
+HL-005,HarvestLink GmbH,Seed,2019-06-01,1.5,Bayern Kapital,Private angels,6.0,
+HL-005,HarvestLink GmbH,Series A,2021-09-01,8.0,Earlybird Venture Capital,BayBG,28.0,
+HL-005,HarvestLink GmbH,Bridge,2024-07-01,2.5,Earlybird (existing),BayBG,22.0,Flat round; CFO resigned Oct 2025; strategic sale process launched Apr 2026
+BR-006,BioRoot Innovations SA,Pre-seed,2020-11-01,0.8,Ghent University Tech Transfer,Founders,3.2,
+BR-006,BioRoot Innovations SA,Seed,2022-04-01,3.5,Sofinnova Partners,Bayer AG Strategic Investments,14.0,
+BR-006,BioRoot Innovations SA,Series A,2024-10-01,12.0,Swifty Ventures,Bayer AG Strategic Investments; EIC Accelerator,55.0,EUR 2.5M EIC grant + EUR 9.5M equity; Spanish approval delayed to Q4 2026

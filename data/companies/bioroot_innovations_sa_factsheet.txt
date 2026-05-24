@@ -1,0 +1,113 @@
+================================================================================
+COMPANY FACTSHEET — BIOROOT INNOVATIONS SA
+================================================================================
+Document type  : Company Factsheet
+Source         : Company IR + European Patent Office + AgFunder database
+Last updated   : April 2026
+Analyst        : Pivot & Co Research Team
+--------------------------------------------------------------------------------
+
+OVERVIEW
+--------
+BioRoot Innovations SA is a Belgian biotech startup founded in 2020, headquartered
+in Ghent (Flemish Region). The company applies synthetic biology and AI-driven
+formulation design to develop next-generation biostimulants and biological soil
+amendments that improve crop root architecture and nutrient uptake efficiency.
+
+Its lead product, "RhizoBoost", is a microbial consortia product that increases
+phosphorus bioavailability in depleted soils, reducing the need for synthetic
+phosphate fertilisers by 20-35%. The product is registered in Belgium, France, and
+Germany, with regulatory submissions pending in Spain and Italy.
+
+FINANCIALS
+----------
+Currency           : EUR
+Latest fiscal year : FY2025
+
+Revenue (FY2025)          : EUR 1.6M (primarily licensing + early commercial sales)
+Revenue (FY2024)          : EUR 0.7M
+Revenue growth YoY        : +129%
+ARR                       : N/A (product revenue, not SaaS)
+Gross margin              : 58% (formulation + supply chain costs)
+EBITDA                    : EUR -2.4M
+Cash position (Dec 2025)  : EUR 8.6M
+Estimated runway          : 30 months
+Burn rate                 : EUR ~0.29M / month
+
+FUNDING HISTORY
+---------------
+Pre-seed (2020)     : EUR 0.8M — Founders + Ghent University Tech Transfer
+Seed (2022)         : EUR 3.5M — Sofinnova Partners, BAYER AG Strategic Investments
+Series A (2024)     : EUR 12.0M — EIC Accelerator (EUR 2.5M grant + EUR 9.5M equity), Swifty Ventures
+Total raised        : EUR 16.3M
+Current valuation   : EUR 55M (post EIC round)
+
+TECHNOLOGY
+----------
+Core IP            : 3 patents granted (EP3892840B1, EP4021232B1, BE1029124B1)
+                     2 pending (microbial consortia composition + AI formulation algorithm)
+Regulatory status  : EU fertilising products regulation (FPR) compliant
+AI application     : ML-based soil microbiome interaction model; selects optimal
+                     microbial consortia based on soil type and crop combination
+Production         : Contract manufacturing (Lesaffre Group partnership)
+
+MARKET POSITION
+---------------
+Target segment     : Conventional and transitional farms reducing synthetic inputs
+Addressable market : EUR 4.2B global biostimulant market (CAGR 11% to 2030)
+Market share       : <0.1% (early commercial)
+Key competitors    : Novozymes BioAg, Syngenta Valagro, AgBiome
+Differentiation    : AI-driven formulation personalisation — competitors use static consortia
+                     Bayer strategic investment gives channel access (distribution partnership)
+
+TEAM
+----
+CEO    : Dr. Thomas Leclercq — PhD Microbiology (Ghent University), serial biotech founder
+CSO    : Prof. Katrien De Smet — Full Professor Soil Biology, Ghent University (part-time)
+CCO    : Julie Martin — ex-Novozymes BioAg European Sales Director
+Team   : 27 FTEs (20 R&D, 4 commercial, 3 G&A)
+
+ESG & SUSTAINABILITY
+--------------------
+Synthetic phosphate fertiliser reduction per treated hectare : -27% average
+Bayer investment carries ESG reporting requirements (Scope 3 supplier sustainability)
+EU EIC recognition as "Deep Tech Climate Innovation"
+SDGs targeted   : SDG 2, SDG 15, SDG 13
+B-Corp certification: Targeted for 2027
+
+STRATEGIC NOTES
+---------------
+- Distribution partnership with Bayer (signed Q3 2024): Bayer sales force promoting
+  RhizoBoost across DACH and Benelux; royalty model at 8% of net sales
+- Spanish + Italian regulatory approvals expected Q3 2026 — significant revenue unlock
+- Second product ("FungalRoot" — mycorrhizal fungi consortia) in Phase 2 field trials
+- EIC Accelerator funding requires maintaining EU HQ and certain IP ownership conditions
+
+KEY RISKS
+---------
+- Regulatory delays (Spain/Italy) could push commercialisation timeline by 6-12 months
+- Dependency on Lesaffre for manufacturing — no backup CMO identified
+- Bayer relationship is strategic asset but creates channel dependency
+- Market education required: farmer adoption of biologicals slower than synthetic inputs
+- Climate variability affects microbial efficacy (inconsistent field results in dry years)
+
+ANALYST PRELIMINARY VIEW
+------------------------
+BioRoot is a compelling deep-tech play in the biological inputs market. Strong IP
+portfolio, EIC backing, Bayer channel partnership, and a CSO who is a world-class
+soil biologist create a rare combination. Revenue is still small but growing fast.
+Comfortable runway (30 months). The Spanish/Italian approval is the next key catalyst.
+Recommend advancing to initial meeting.
+
+SCORING INPUTS (for AI model)
+------------------------------
+revenue_growth_pct        : 129
+gross_margin_pct          : 58
+runway_months             : 30
+total_raised_eur_m        : 16.3
+fte_count                 : 27
+market_coverage_ha        : 0
+has_patent                : true
+esg_score_internal        : 88
+analyst_flag              : PRIORITY_WATCH
+================================================================================

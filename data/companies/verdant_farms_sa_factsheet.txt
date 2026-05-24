@@ -1,0 +1,108 @@
+================================================================================
+COMPANY FACTSHEET — VERDANT FARMS SA
+================================================================================
+Document type  : Company Factsheet
+Source         : Internal CRM + Company IR materials
+Last updated   : March 2026
+Analyst        : Pivot & Co Research Team
+--------------------------------------------------------------------------------
+
+OVERVIEW
+--------
+Verdant Farms SA is a French precision agriculture company founded in 2019 and
+headquartered in Montpellier, France. The company develops an AI-powered crop
+management platform that integrates satellite imagery, IoT soil sensors, and
+weather forecasting to provide real-time agronomic recommendations to farmers.
+
+Its flagship product, "AgroLens", is a SaaS platform used by over 1,200
+commercial farms across France, Spain, and Italy, covering approximately 420,000
+hectares of cultivated land as of Q4 2025.
+
+FINANCIALS
+----------
+Currency           : EUR
+Latest fiscal year : FY2025
+
+Revenue (FY2025)          : EUR 8.4M
+Revenue (FY2024)          : EUR 4.9M
+Revenue growth YoY        : +71%
+ARR (Q4 2025)             : EUR 9.2M
+Gross margin              : 74%
+EBITDA                    : EUR -2.1M (investing phase)
+Cash position (Dec 2025)  : EUR 11.3M
+Estimated runway          : 18 months
+Burn rate                 : EUR ~0.63M / month
+
+FUNDING HISTORY
+---------------
+Seed (2020)         : EUR 1.2M — Business Angels + Bpifrance
+Series A (2022)     : EUR 6.0M — Partech Ventures, Capagro
+Series B (2024)     : EUR 18.0M — Sofinnova Partners, Capagro, BNP Paribas Développement
+Total raised        : EUR 25.2M
+Current valuation   : EUR 62M (post Series B)
+
+TECHNOLOGY
+----------
+Core IP            : Proprietary multi-spectral image analysis model (patent pending FR2024-08812)
+Data sources       : Sentinel-2 satellite (ESA), Proprietary LoRaWAN sensor network, Météo-France API
+AI stack           : PyTorch-based computer vision + LSTM time-series models
+Accuracy (field)   : 91% prediction accuracy on yield deviation vs. baseline
+Integrations       : John Deere Operations Center, Claas TELEMATICS, ISAGRI
+
+MARKET POSITION
+---------------
+Target segment     : Mid-to-large commercial farms (>100 ha)
+Addressable market : EUR 1.4B in Western Europe (precision ag SaaS)
+Market share (est.): ~0.6% of addressable market
+Key competitors    : Trimble Agriculture, BASF xarvio, Bayer Climate Corp (FieldView)
+Differentiation    : Open-sensor agnostic architecture; localized agronomic AI models
+                     trained on Mediterranean crop varieties (unique dataset)
+
+TEAM
+----
+CEO    : Dr. Sophie Marchand — PhD Agronomy INRAE, ex-Limagrain Head of Digital
+CTO    : Yann Lefèvre — ex-Airbus AI Research, MSc Computer Vision (ENPC)
+COO    : Marc Duval — ex-McKinsey, 10y agribusiness consulting
+Team   : 68 FTEs (38 tech/product, 18 sales/CS, 12 G&A)
+
+ESG & SUSTAINABILITY
+--------------------
+Carbon footprint reduction tracked per farm : Average -18% N2O emissions per hectare
+Water usage optimization                    : Average -22% irrigation water saved
+Certifications                              : ISO 14001 (2025), HVE advisory partner
+B-Corp application                          : In progress (expected H2 2026)
+SDGs targeted                               : SDG 2 (Zero Hunger), SDG 13 (Climate Action)
+
+STRATEGIC NOTES
+---------------
+- Letter of Intent signed with Crédit Agricole for white-label advisory integration (Q2 2026)
+- Active discussions with a Tier-1 agri cooperative (undisclosed) for potential partnership
+- Company exploring US market entry (California almonds) — feasibility study ongoing
+- No M&A activity to date; founding team retains 31% equity post Series B
+
+KEY RISKS
+---------
+- High dependency on ESA satellite availability (single point of failure)
+- Burn rate elevated post Series B due to aggressive hiring plan
+- Regulatory risk: EU AI Act classification of AI-assisted agronomic advice unclear
+- Competition from large players (BASF, Bayer) increasing R&D investment in precision ag
+
+ANALYST PRELIMINARY VIEW
+------------------------
+Verdant Farms presents strong revenue momentum (+71% YoY) with a defensible local
+dataset advantage in Mediterranean crops. The Series B provides adequate runway but
+burn management will be critical. Worth deeper due diligence given LOI with Crédit
+Agricole and potential cooperative deal.
+
+SCORING INPUTS (for AI model)
+------------------------------
+revenue_growth_pct        : 71
+gross_margin_pct          : 74
+runway_months             : 18
+total_raised_eur_m        : 25.2
+fte_count                 : 68
+market_coverage_ha        : 420000
+has_patent                : true
+esg_score_internal        : 82
+analyst_flag              : PRIORITY_WATCH
+================================================================================

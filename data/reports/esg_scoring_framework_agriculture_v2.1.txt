@@ -1,0 +1,113 @@
+================================================================================
+ESG FRAMEWORK FOR AGRICULTURAL INVESTMENT — PIVOT & CO SCORING GUIDE
+================================================================================
+Document type  : Internal Methodology Note
+Source         : Pivot & Co ESG Advisory Practice
+Date           : January 2026
+Version        : 2.1
+--------------------------------------------------------------------------------
+
+PURPOSE
+-------
+This document defines the ESG scoring methodology applied by Pivot & Co when
+evaluating agricultural companies for investment or strategic advisory mandates.
+It is designed to be consistent with the EU Sustainable Finance Disclosure
+Regulation (SFDR) Article 8 and 9 product classification criteria, and aligned
+with the TCFD recommendations for climate-related financial disclosure.
+
+SCORING DIMENSIONS
+------------------
+ESG scores are assessed on a 0-100 scale across three pillars, equally weighted:
+
+PILLAR 1 — ENVIRONMENTAL (0-100)
+Criteria:
+- Direct GHG emissions reduction per unit of output (scope 1+2)
+- Water consumption efficiency improvement
+- Pesticide / synthetic fertiliser reduction impact
+- Biodiversity impact (soil health, pollinator protection, habitat)
+- Climate resilience of core product/service in warming scenarios (+1.5°C, +2°C)
+- Third-party environmental certification (ISO 14001, Rainforest Alliance, etc.)
+
+Score benchmarks:
+90-100 : Demonstrable, independently verified positive environmental impact
+70-89  : Strong impact claims with partial verification
+50-69  : Neutral / mixed impact; environmental benefits not core to model
+30-49  : No material environmental differentiation
+0-29   : Potential negative environmental externalities
+
+PILLAR 2 — SOCIAL (0-100)
+Criteria:
+- Farmer income impact (does the product/service improve smallholder income?)
+- Food security contribution (SDG 2 alignment)
+- Labour practices (company's own workforce)
+- Community engagement in operating regions
+- Gender diversity in leadership team (>30% target)
+
+Score benchmarks:
+90-100 : Proven positive social impact with third-party assessment
+70-89  : Strong social mission embedded in business model
+50-69  : Standard employment practices; limited social differentiation
+30-49  : Limited social impact data available
+0-29   : Identified social risks (labour, community conflict)
+
+PILLAR 3 — GOVERNANCE (0-100)
+Criteria:
+- Board independence and composition
+- Founder equity concentration (>60% = risk flag)
+- Financial reporting quality and frequency
+- Key person risk mitigation
+- Data privacy and cybersecurity governance (GDPR compliance)
+- Anti-corruption and supply chain integrity
+
+Score benchmarks:
+90-100 : Best-in-class governance for stage; independent board, strong controls
+70-89  : Adequate governance; minor gaps typical for stage
+50-69  : Founder-controlled; basic controls in place
+30-49  : Governance weaknesses identified (e.g., CFO vacancy, high concentration)
+0-29   : Material governance failures or conflicts of interest
+
+RED FLAGS (automatic score reduction)
+--------------------------------------
+The following factors trigger automatic pillar score reductions:
+- Unverified ESG claims or greenwashing indicators : -20 points Environmental
+- Ongoing regulatory investigation                : -15 points Governance
+- >1 senior leadership departure in 12 months     : -10 points Governance
+- Customer concentration >50% in top 3             : -10 points Governance
+- Revenue decline with no structural explanation  : -10 points Social (employee risk)
+- No independent board member at Series A+        : -15 points Governance
+
+COMPOSITE ESG SCORE
+-------------------
+Composite = (Environmental + Social + Governance) / 3
+
+Classification:
+80-100 : ESG Leader — suitable for Article 9 fund mandates
+65-79  : ESG Positive — suitable for Article 8 fund mandates
+50-64  : ESG Neutral — standard screening; no mandate restriction
+35-49  : ESG Caution — enhanced due diligence required
+0-34   : ESG Risk — excluded from ESG-labelled mandates
+
+MONITORING THRESHOLDS
+---------------------
+Automated alerts should be generated when:
+- ESG composite score drops below 60
+- Environmental pillar score drops below 55 (triggers enhanced monitoring)
+- Governance red flag detected (any single red flag event)
+- Annual ESG score delta (vs. prior year) exceeds -15 points
+
+ALIGNMENT WITH SDGS
+-------------------
+All portfolio company monitoring tracks contribution to:
+SDG 2  : Zero Hunger — primary mandate
+SDG 6  : Clean Water — secondary (water management companies)
+SDG 13 : Climate Action — primary mandate
+SDG 15 : Life on Land — secondary (biodiversity/soil companies)
+
+NOTE ON AI-ASSISTED SCORING
+---------------------------
+This framework is designed to be partially automated via NLP extraction from
+company documents. However, all AI-generated ESG scores must be validated by
+a human analyst before inclusion in investment committee materials.
+Confidence thresholds: AI scores with <70% extraction confidence should be
+flagged for manual review.
+================================================================================

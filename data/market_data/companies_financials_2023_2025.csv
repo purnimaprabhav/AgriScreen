@@ -1,0 +1,19 @@
+company_id,company_name,country,sub_sector,fy_year,revenue_eur_k,revenue_growth_pct,gross_margin_pct,ebitda_eur_k,arr_eur_k,cash_eur_k,burn_eur_k_monthly,runway_months,fte_count
+VF-001,Verdant Farms SA,FR,Precision Agriculture,2023,2850,62,71,-1450,3200,5200,350,15,38
+VF-001,Verdant Farms SA,FR,Precision Agriculture,2024,4900,72,73,-1890,7100,14000,560,25,54
+VF-001,Verdant Farms SA,FR,Precision Agriculture,2025,8400,71,74,-2100,9200,11300,630,18,68
+GY-002,GreenYield Technologies BV,NL,Crop Protection Tech,2023,2200,47,62,-950,2600,5800,220,26,29
+GY-002,GreenYield Technologies BV,NL,Crop Protection Tech,2024,3700,68,66,-890,4300,9200,280,33,37
+GY-002,GreenYield Technologies BV,NL,Crop Protection Tech,2025,5100,38,68,-800,5600,7400,310,24,41
+SS-003,SoilSense AI Ltd,GB,Soil Health & Carbon,2023,280,133,36,-980,320,1800,100,18,12
+SS-003,SoilSense AI Ltd,GB,Soil Health & Carbon,2024,300,7,38,-1200,450,3500,120,29,16
+SS-003,SoilSense AI Ltd,GB,Soil Health & Carbon,2025,900,200,41,-1400,1100,2200,140,16,19
+AG-004,AquaGrow Solutions Ltd,IL,Water Management,2023,13900,18,48,-800,6800,9200,650,14,88
+AG-004,AquaGrow Solutions Ltd,IL,Water Management,2024,17800,28,50,100,8200,8500,700,12,98
+AG-004,AquaGrow Solutions Ltd,IL,Water Management,2025,19800,11,52,1120,9600,6800,0,999,112
+HL-005,HarvestLink GmbH,DE,Agri Supply Chain,2023,4900,23,64,-1200,1500,7200,250,29,52
+HL-005,HarvestLink GmbH,DE,Agri Supply Chain,2024,4200,-14,62,-2100,1350,5400,270,20,48
+HL-005,HarvestLink GmbH,DE,Agri Supply Chain,2025,3800,-10,61,-2900,1200,3100,280,11,34
+BR-006,BioRoot Innovations SA,BE,Biological Inputs,2023,340,113,52,-1800,0,4200,180,23,18
+BR-006,BioRoot Innovations SA,BE,Biological Inputs,2024,700,106,55,-2100,0,6500,240,27,22
+BR-006,BioRoot Innovations SA,BE,Biological Inputs,2025,1600,129,58,-2400,0,8600,290,30,27

@@ -1,0 +1,105 @@
+================================================================================
+SECTOR REPORT — EUROPEAN AGTECH LANDSCAPE Q1 2026
+================================================================================
+Document type  : Sector Research Report
+Source         : Pivot & Co Research — AgriFinance Desk
+Date           : March 2026
+Classification : Internal Use Only
+--------------------------------------------------------------------------------
+
+EXECUTIVE SUMMARY
+-----------------
+European AgTech investment reached EUR 2.1B in 2025, a 12% increase over 2024
+despite broader venture market contraction. The sector continues to attract capital
+driven by three macro tailwinds: (1) EU Farm to Fork strategy mandates, (2) input
+cost inflation following the 2022 Ukraine conflict, and (3) accelerating climate
+stress on agricultural productivity.
+
+Precision agriculture, biological inputs, and agri-data infrastructure remain the
+three largest sub-segments by deal count. Water management has emerged as the
+fastest-growing sub-segment by capital deployed (+34% YoY) reflecting increasing
+drought severity across Southern Europe and North Africa.
+
+KEY INVESTMENT THEMES — 2026
+----------------------------
+
+1. BIOLOGICAL INPUTS & SOIL HEALTH
+Regulatory tailwinds from the EU SUR (Sustainable Use Regulation) are accelerating
+farmer adoption of biostimulants and biocontrol agents. The EU biostimulant market
+is projected to reach EUR 1.8B by 2028 (CAGR 13%). Key dynamics:
+- Bayer, Syngenta, and BASF all made strategic minority investments in biotech
+  startups in 2025, signalling pre-emptive M&A positioning
+- Carbon sequestration measurement demand is creating adjacent opportunities for
+  soil health monitoring companies
+- Registration timelines under EU FPR remain a key bottleneck (avg. 28 months)
+
+2. PRECISION AGRICULTURE & AI
+AI-powered farm management platforms are maturing. Revenue multiples have
+compressed from 12x ARR (2021) to 6-7x ARR (2025). Differentiation increasingly
+depends on proprietary datasets rather than algorithmic sophistication.
+- Companies with >500,000 ha of monitored land command significant data moats
+- Integration with ERP/agri-management systems (ISAGRI, Beekeeper, Trimble) is
+  a critical determinant of customer retention (NRR of best-in-class: 118%)
+- Satellite data democratisation (Sentinel, Planet) is commoditising basic NDVI;
+  edge AI and in-field sensing are emerging as next differentiators
+
+3. WATER MANAGEMENT
+Southern European drought declarations (Spain, Portugal, Italy, Greece) have
+elevated water management to a Tier 1 priority for both farms and governments.
+EU Water Framework Directive enforcement is tightening from 2026, requiring
+farms >50 ha to file water use reports.
+- Smart irrigation companies saw median revenue growth of +41% in 2025
+- Israeli and Australian companies with water management expertise are expanding
+  aggressively into European markets
+- OCP Group (Morocco) partnership with irrigation companies signals Africa
+  as the next high-growth geography
+
+4. SUPPLY CHAIN & TRACEABILITY
+Post-pandemic supply chain restructuring has increased farmer and buyer interest
+in traceability solutions. However, monetisation remains challenging:
+- Blockchain-based traceability has underdelivered on commercial expectations;
+  most players pivoting to lighter-weight AI-driven lot tracking
+- EU Deforestation Regulation (EUDR) creating urgency for commodity traceability
+  in cocoa, soy, palm — spillover effects expected in European grains by 2027
+- B2B marketplace models struggling with take rate compression as large buyers
+  negotiate custom arrangements
+
+VALUATION BENCHMARKS (Q1 2026)
+--------------------------------
+Sub-segment               EV/ARR   EV/Revenue   EBITDA Multiple
+Precision ag (SaaS)       6.5x     N/A          N/M (mostly pre-profit)
+Biological inputs         N/A      4.2x         N/M
+Water management          7.0x     3.8x         18x (profit cos.)
+Supply chain / trace      3.5x     2.1x         N/M
+
+RISK FACTORS
+------------
+- Venture funding slowdown: median deal size in agtech fell 18% in 2025 vs 2024
+- EU SUR legislative uncertainty: partial withdrawal of pesticide reduction targets
+  in 2025 created regulatory ambiguity for biological input companies
+- Climate-related yield volatility: extreme weather events in 2025 (France floods,
+  Iberian drought) disrupted customer operations and slowed procurement decisions
+- AI regulation: EU AI Act Article 22 may require conformity assessments for
+  autonomous agricultural decision-support systems above a certain risk threshold
+
+NOTABLE TRANSACTIONS (2025)
+----------------------------
+- Bayer AG acquires minority stake in FungalFields GmbH (DE) — EUR 15M (biocontrol)
+- Valmont Industries acquires IrriPrecision (ES) — USD 38M (smart irrigation)
+- Nutrien invests USD 20M in SoilCycle (CA) — soil carbon credit platform
+- Planet Labs acquires AgroView (FR) analytical layer — USD 45M (precision ag)
+- HarvestLink GmbH fails to close Series B — bridge round at flat valuation
+
+OUTLOOK
+-------
+We expect 2026 to be a year of consolidation in European AgTech. Large agri-input
+companies (Bayer, BASF, Syngenta, Nutrien) will continue acquiring or taking minority
+stakes in precision ag and biological input companies. Water management will attract
+the largest new investments. Supply chain and traceability companies face a difficult
+funding environment; expect further distressed situations.
+
+Recommended watchlist priorities for Pivot & Co:
+HIGH  : Biological inputs (IP-heavy, regulatory moat), water management (southern Europe)
+MED   : Precision agriculture (consolidating; look for data moat leaders)
+LOW   : B2B marketplace / supply chain (monetisation risk)
+================================================================================

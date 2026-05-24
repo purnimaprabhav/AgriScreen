@@ -1,0 +1,44 @@
+# ── Secrets — NEVER commit ────────────────────────────────────
+.env
+.env.local
+*.key
+*.pem
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ── Virtual environments ──────────────────────────────────────
+venv/
+env/
+.venv/
+ENV/
+.python-version
+
+# ── IDE / editor ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ── Streamlit ─────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Jupyter (if any notebooks used) ───────────────────────────
+.ipynb_checkpoints/
+
+# ── Model / index cache (large binary files) ──────────────────
+# Uncomment if your FAISS index is >50 MB or if you want graders
+# to rebuild it fresh from the source data:
+# outputs/index/
+# outputs/notes/
+
+# ── Logs ───────────────────────

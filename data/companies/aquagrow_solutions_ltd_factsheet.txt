@@ -1,0 +1,113 @@
+================================================================================
+COMPANY FACTSHEET — AQUAGROW SOLUTIONS LTD
+================================================================================
+Document type  : Company Factsheet
+Source         : Company IR + S&P Capital IQ + News monitoring
+Last updated   : April 2026
+Analyst        : Pivot & Co Research Team
+--------------------------------------------------------------------------------
+
+OVERVIEW
+--------
+AquaGrow Solutions Ltd (formerly AquaAg Technologies) is an Israeli agricultural
+water management company founded in 2014 and headquartered in Tel Aviv. The company
+provides precision irrigation management systems combining AI-driven evapotranspiration
+modelling, drip irrigation hardware, and a farm management application.
+
+AquaGrow serves over 3,400 farms across Israel, Spain, Morocco, and California (US),
+predominantly in high-value crops: avocado, citrus, tomato, and table grapes.
+The company rebranded in 2023 following its acquisition of Spanish irrigation hardware
+maker TechRiego SL, which significantly expanded its hardware capabilities and Iberian
+market presence.
+
+FINANCIALS
+----------
+Currency           : USD
+Latest fiscal year : FY2025
+
+Revenue (FY2025)          : USD 21.4M
+Revenue (FY2024)          : USD 17.8M
+Revenue growth YoY        : +20%
+ARR (software, Q4 2025)   : USD 9.6M
+Gross margin (blended)    : 52% (hardware 28%, software 81%)
+EBITDA                    : USD +1.2M (first profitable year)
+Cash position (Dec 2025)  : USD 6.8M
+Debt                      : USD 4.1M (acquisition financing)
+
+FUNDING HISTORY
+---------------
+Seed (2015)         : USD 1.5M — Israeli angels + OurCrowd
+Series A (2017)     : USD 5.0M — Pontifax Agro, Syngenta Ventures
+Series B (2020)     : USD 14.0M — Xinova Ventures, Mivtach Shamir Holdings
+TechRiego acq. (2023): USD 6.5M (cash + equity) — financed by bank debt
+Total equity raised : USD 20.5M
+Current valuation   : USD 78M (internal estimate, Series B + acquisition)
+
+TECHNOLOGY
+----------
+Core IP            : ET-AI™ — proprietary evapotranspiration model combining
+                     micro-climate data, crop growth stage, and soil water balance
+Accuracy           : Irrigation scheduling precision ±4% vs. expert agronomist
+Hardware           : Drip emitters, fertigation units, soil tensiometers (TechRiego line)
+Platform           : AquaFarm app (iOS/Android), SCADA integration, REST API
+Integrations       : Netafim FieldNET, Lindsay FieldNET, John Deere Ops Center
+
+MARKET POSITION
+---------------
+Target segment     : High-value crop farms in water-stressed regions (>25 ha)
+Addressable market : USD 3.8B global smart irrigation (growing at 14% CAGR)
+Market share       : ~0.56% of addressable market
+Key competitors    : Netafim Digital (Orbia), Lindsay Zimmatic, CropX, Hortau
+Differentiation    : Only company offering fully integrated ET modelling + drip hardware
+                     + agronomic advisory in Mediterranean / arid crop types
+
+TEAM
+----
+CEO    : Oded Katz — MBA Hebrew University, 20y agri-tech, ex-Netafim VP Business Dev
+CTO    : Dr. Michal Barak — PhD Hydrology (Technion), ex-IBM Research Israel
+COO    : Pedro Iglesias — ex-TechRiego CEO (retained post-acquisition)
+Team   : 112 FTEs (44 tech/product, 38 hardware/field ops, 30 sales/CS)
+
+ESG & SUSTAINABILITY
+--------------------
+Water savings per farm          : Average -31% irrigation water consumption
+GHG emissions from water pumping: Estimated -24% reduction per hectare
+Certifications                  : ISO 9001, Israel Standard 5756 (water efficiency)
+Awards                          : Israeli Ministry of Agriculture Water Innovation Award (2024)
+SDGs targeted                   : SDG 2, SDG 6 (Clean Water), SDG 13
+
+STRATEGIC NOTES
+---------------
+- First EBITDA-positive year (FY2025) — important milestone for exit optionality
+- Active conversations with two strategic acquirers (believed to be Valmont Industries
+  and a European agri-input distributor) — no signed NDA reported
+- Morocco expansion accelerating: partnership signed with OCP Group (phosphates giant)
+  for bundled soil + water management offering to smallholders
+- IPO on Tel Aviv Stock Exchange explored for 2027; contingent on USD 30M+ revenue
+
+KEY RISKS
+---------
+- Hardware component supply chain disruption (Taiwan chip shortage impact on IoT)
+- Acquisition integration risk: TechRiego culture/systems still partially separate
+- FX exposure: revenues multi-currency (ILS, EUR, USD, MAD) vs. USD reporting
+- Water regulation risk in key markets (California groundwater restrictions tightening)
+
+ANALYST PRELIMINARY VIEW
+------------------------
+AquaGrow is the most mature company in the watchlist. First profitable year, strong
+market coverage in high-value crops, and M&A interest from strategics make this a
+high-priority opportunity. The OCP Group partnership is particularly interesting for
+Africa market optionality. Recommend advancing to formal due diligence.
+
+SCORING INPUTS (for AI model)
+------------------------------
+revenue_growth_pct        : 20
+gross_margin_pct          : 52
+runway_months             : 999
+total_raised_eur_m        : 19.1
+fte_count                 : 112
+market_coverage_ha        : 890000
+has_patent                : true
+esg_score_internal        : 85
+analyst_flag              : PRIORITY
+================================================================================

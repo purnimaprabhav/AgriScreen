@@ -1,0 +1,112 @@
+================================================================================
+COMPANY FACTSHEET — HARVESTLINK GMBH
+================================================================================
+Document type  : Company Factsheet
+Source         : Company IR + Handelsregister + LinkedIn Intelligence
+Last updated   : March 2026
+Analyst        : Pivot & Co Research Team
+--------------------------------------------------------------------------------
+
+OVERVIEW
+--------
+HarvestLink GmbH is a German agricultural supply chain platform founded in 2018,
+headquartered in Munich. The company operates a B2B marketplace and traceability
+platform connecting grain producers, grain traders, feed mills, and food processors
+across Germany, Austria, and Switzerland (DACH region).
+
+Using blockchain-backed lot tracking and AI-driven demand forecasting, HarvestLink
+aims to reduce post-harvest losses and improve price discovery for grain producers.
+The company generates revenue through transaction fees (0.4% of GMV) and SaaS
+subscriptions for premium analytics.
+
+FINANCIALS
+----------
+Currency           : EUR
+Latest fiscal year : FY2025
+
+Revenue (FY2025)          : EUR 3.8M
+Revenue (FY2024)          : EUR 4.2M
+Revenue growth YoY        : -10% (revenue declined)
+GMV (FY2025)              : EUR 950M (+8% YoY)
+Take rate                 : 0.40%
+ARR (SaaS, Q4 2025)       : EUR 1.2M
+Gross margin              : 61%
+EBITDA                    : EUR -2.9M
+Cash position (Dec 2025)  : EUR 3.1M
+Estimated runway          : 11 months
+Burn rate                 : EUR ~0.28M / month
+
+FUNDING HISTORY
+---------------
+Seed (2019)         : EUR 1.5M — Bayern Kapital, private angels
+Series A (2021)     : EUR 8.0M — Earlybird Venture Capital, BayBG
+Bridge (2024)       : EUR 2.5M — Existing investors (emergency)
+Total raised        : EUR 12.0M
+Current valuation   : EUR 22M (Series A — bridge was flat round)
+
+TECHNOLOGY
+----------
+Core IP            : Grain lot traceability algorithm using blockchain anchoring (Hyperledger Fabric)
+AI forecasting     : ARIMA + XGBoost demand forecasting; 76% accuracy at 4-week horizon
+Platform           : Web portal + mobile app + EDI integration with SAP Grain Management
+Certifications     : QS-approved traceability chain (German feed safety standard)
+
+MARKET POSITION
+---------------
+Target segment     : Grain supply chain (producers, traders, processors) in DACH
+Addressable market : EUR 12B annual grain trade volume in DACH
+Market share       : ~0.008% of trade volume (low penetration)
+Key competitors    : AgroVise (startup), traditional grain brokers with digital tools, Agreena
+Differentiation    : QS certification integration — rare in digital competitors
+                     SAP integration reduces friction for large feed millers
+
+TEAM
+----
+CEO    : Klaus Weber — MBA WHU, ex-Cargill DACH operations, founded company
+CTO    : Anna Berger — ex-SAP, MSc Informatik (TU Munich)
+CFO    : Position vacant since October 2025 (incumbent resigned; search ongoing)
+Team   : 34 FTEs (significant headcount reduction from 52 in Jan 2025)
+
+ESG & SUSTAINABILITY
+--------------------
+Food waste reduction from better demand matching  : Claimed -12% in pilot studies
+No third-party ESG certification
+SDGs targeted                                     : SDG 2, SDG 12 (Responsible Consumption)
+Note: ESG claims are not independently verified
+
+STRATEGIC NOTES
+---------------
+- Revenue declined -10% YoY due to loss of two anchor customers (moved to in-house solution)
+- CFO departure and headcount reduction (-35%) are significant negative signals
+- Bridge round in 2024 was done at flat valuation — indicates investor hesitation
+- Management is exploring a strategic sale; mandate given to a Frankfurt-based M&A boutique
+- GMV growth (+8%) diverging from revenue decline suggests pricing pressure on take rate
+
+KEY RISKS
+---------
+- Critical runway concern: 11 months without additional funding or strategic exit
+- Revenue declining despite GMV growth — structural take rate compression risk
+- CFO vacancy at a critical juncture is a major governance risk
+- Customer concentration: top 3 customers represent ~60% of SaaS ARR
+- Blockchain traceability: buyer interest has waned; technology may be overengineered for market
+
+ANALYST PRELIMINARY VIEW
+------------------------
+HarvestLink is in financial distress. The combination of revenue decline, CFO departure,
+headcount reduction, emergency bridge round, and 11-month runway points to a company
+at a critical inflection point. While GMV growth is encouraging, the monetisation model
+is under pressure. Not a priority investment candidate at current stage; monitor for
+distressed acquisition opportunity if strategic sale process progresses.
+
+SCORING INPUTS (for AI model)
+------------------------------
+revenue_growth_pct        : -10
+gross_margin_pct          : 61
+runway_months             : 11
+total_raised_eur_m        : 12.0
+fte_count                 : 34
+market_coverage_ha        : 0
+has_patent                : false
+esg_score_internal        : 44
+analyst_flag              : LOW_PRIORITY
+================================================================================
