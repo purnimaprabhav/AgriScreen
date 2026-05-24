@@ -30,28 +30,47 @@ Open `http://localhost:8501`. First load takes ~60 seconds (runs full scoring pi
 ---
 
 ## Architecture
-```
-┌───────────────────┐
-              │   Source Data     │
-              │  (factsheets,     │
-              │   news, reports,  │
-              │   CSVs)           │
-              └─────────┬─────────┘
-                        │
-              ┌─────────▼─────────┐
-              │   Ingestion       │
-              │   Loader →        │
-              │   Chunker →       │
-              │   Embedder →      │
-              │   FAISS Index     │
-              └─────────┬─────────┘
-                        │
-    ┌───────────────────┼───────────────────┐
-    │                   │                   │
-    **Design principle**: LLMs are used only for *grounded signal extraction* and *answer generation*. All scoring formulas, thresholds, and alert logic are deterministic Python — making every score reproducible and explainable.
+
+## Architecture
 
 ```
----
+                  ┌───────────────────┐
+                  │   Source Data     │
+                  │  (factsheets,     │
+                  │   news, reports,  │
+                  │   CSVs)           │
+                  └─────────┬─────────┘
+                            │
+                  ┌─────────▼─────────┐
+                  │   Ingestion       │
+                  │   Loader →        │
+                  │   Chunker →       │
+                  │   Embedder →      │
+                  │   FAISS Index     │
+                  └─────────┬─────────┘
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+   ┌────▼─────┐      ┌──────▼───────┐    ┌─────▼─────┐
+   │   RAG    │      │   Scoring    │    │ Monitoring│
+   │ Retriever│      │  4 dims:     │    │  7 alert  │
+   │   + LLM  │      │  F/T/M/E     │    │   types   │
+   │ (Groq)   │      │  → 0-100     │    │           │
+   └────┬─────┘      └──────┬───────┘    └─────┬─────┘
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            │
+                  ┌─────────▼─────────┐
+                  │  Streamlit App    │
+                  │  4 tabs:          │
+                  │  - Dashboard      │
+                  │  - Analyst Chat   │
+                  │  - Alerts         │
+                  │  - Company Notes  │
+                  └───────────────────┘
+```
+
+**Design principle**: LLMs are used only for *grounded signal extraction* and *answer generation*. All scoring formulas, thresholds, and alert logic are deterministic Python — making every score reproducible and explainable.
 
 ## App Walkthrough
 
@@ -199,7 +218,6 @@ Three-layer defence:
 2. **Explicit refusal instruction**: if no evidence, respond exactly *"This cannot be answered from the available documents"*
 3. **`temperature=0`** for deterministic, literal generation
 
-**Verified**: tested with the impossible question *"Which company plans expansion into South America in 2028?"* — system correctly refuses.
 
 ---
 
