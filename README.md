@@ -30,6 +30,7 @@ Open `http://localhost:8501`. First load takes ~60 seconds (runs full scoring pi
 ---
 
 ## Architecture
+```
 ┌───────────────────┐
               │   Source Data     │
               │  (factsheets,     │
@@ -49,6 +50,7 @@ Open `http://localhost:8501`. First load takes ~60 seconds (runs full scoring pi
     │                   │                   │
     **Design principle**: LLMs are used only for *grounded signal extraction* and *answer generation*. All scoring formulas, thresholds, and alert logic are deterministic Python — making every score reproducible and explainable.
 
+```
 ---
 
 ## App Walkthrough
@@ -80,6 +82,7 @@ AI-generated structured notes grounded in source documents. Download in three fo
 ---
 
 ## Project Structure
+```
 pivotco_assessment/
 ├── app.py                    # Streamlit app (4 tabs)
 ├── requirements.txt
@@ -134,6 +137,7 @@ pivotco_assessment/
 ├── index/                # FAISS index + chunks.pkl
 └── notes/                # Generated .md notes
 
+```
 ---
 
 ## Scoring Methodology
