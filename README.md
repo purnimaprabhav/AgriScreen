@@ -1,9 +1,18 @@
 # 🌱 AgriScreen
 
 **AI-Powered Agricultural Investment Screening**
-Pivot & Co — Take-Home Assessment · May 2026
+Personal project · June 2026
 
-AgriScreen is a portfolio-screening tool that ingests company factsheets, news, financials and an ESG framework, then scores 6 agricultural-tech companies across Financial, Technology, Market, and ESG dimensions. It surfaces investment-grade insights through a Streamlit dashboard with RAG-powered chat, automated alerts, and downloadable investment notes.
+AgriScreen is a portfolio-screening tool that ingests company factsheets, news,
+financials and an ESG framework, then scores agricultural-tech companies across
+Financial, Technology, Market, and ESG dimensions. It surfaces investment-grade
+insights through a Streamlit dashboard with RAG-powered chat, automated alerts,
+and downloadable investment notes.
+
+Built to explore a real question: how do you design an AI system whose outputs
+an investment analyst could actually trust and act on — where every score is
+explainable, every claim is traceable to a source, and the system knows when
+to say "I don't know"?
 
 ![Dashboard Overview](docs/screenshots/dashboard.png)
 
