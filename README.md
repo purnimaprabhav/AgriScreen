@@ -311,4 +311,4 @@ What I would add for a production deployment:
     - The comparison Q&A already uses concurrent retrieval for parallel company queries
 
 
-Built by **Purnima Prabha** for Pivot & Co · May 2026
+Built by **Purnima Prabha** · June 2026
